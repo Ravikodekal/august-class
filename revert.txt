@@ -1,4 +1,4 @@
-
+/bin/bash
 checking the revert command
 lets do it 
 
